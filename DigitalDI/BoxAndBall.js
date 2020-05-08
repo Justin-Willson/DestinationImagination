@@ -46,7 +46,8 @@ function draw() {
         1. Make a smiley face
         2. Make the DI box and ball
         3. Make a snow man.
-        4. Look at the reference for the rect() function. It teaches you how to
+        4. There's a lot more that the rect() function can do. To learn more, go
+           to https://p5js.org/reference/#/p5/rect. It teaches you how to
            make rounded squares (the mathematical term for these is squircle).
-           Make a squircle on the screen in your favorite color. https://p5js.org/reference/#/p5/rect
+           Make a squircle on the screen in your favorite color.
 */
