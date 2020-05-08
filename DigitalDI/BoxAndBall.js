@@ -13,22 +13,20 @@ function draw() {
     //represent colors. DI purple is (129, 61, 214).
     //Find cool colors using this link:
     //https://www.google.com/search?q=color+picker
-    background(23, 128, 35);
+    background(129, 61, 214);
     
     //Our background is set, lets draw and color shapes!
 
     //The fill() function sets the color of shapes we draw.
     //We chose RGB numbers to make DI orange (255,102,0).
     //Rect is short for Rectangle
-    fill(25, 10, 0);   
-    rect(200, 300, 100, 80);
+    fill(255,102,0);   
+    rect(50, 50, 100, 100);
 
 
     //Ellipse is a fancy word for an oval.
-    fill(144, 87, 171);   
-    ellipse(300, 60, 200, 200);
-    fill(14, 87, 171);   
-    ellipse(200, 60, 100, 200);
+    fill(255,102,0);   
+    ellipse(200, 200, 100, 100);
 }
 
 
